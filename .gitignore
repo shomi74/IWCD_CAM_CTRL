@@ -1,0 +1,71 @@
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+.vscode/
+.idea/
+
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+
+# =========================
+# Archives
+# =========================
+*.zip
+*.7z
+*.rar
+
+# =========================
+# Images generated during validation
+# =========================
+validation/measurements/*.raw
+validation/measurements/*.csv
+
+# =========================
+# Prevent accidental upload
+# of implementation-level files
+# =========================
+*.kicad_pcb
+*.kicad_sch
+*.kicad_pro
+*.kicad_prl
+*.kicad_sym
+
+*.gbr
+*.drl
+*.pos
+*.csv
+
+# =========================
+# Manufacturing outputs
+# =========================
+manufacturing/production/
+manufacturing/assembly/
+
+# =========================
+# Hardware engineering data
+# =========================
+hardware/kicad/
+hardware/stackup/
+hardware/parts/
+hardware/mechanical/
+
+# =========================
+# Firmware source
+# =========================
+firmware/teensy/
+firmware/debug/
+firmware/motor_control/
+firmware/sensor_readout/
+
+# =========================
+# Private engineering repo
+# =========================
+hardware/engineering_private/
