@@ -473,9 +473,9 @@ This public repository documents:
 
 Implementation-level engineering files are maintained separately in:
 
-```
+
 - [IWCD_CAM_CTRL_ENGINEERING](https://github.com/shomi74/IWCD_CAM_CTRL_ENGINEERING)
-```
+
 
 The private engineering repository contains:
 - KiCad source files
