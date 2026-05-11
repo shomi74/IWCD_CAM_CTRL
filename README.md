@@ -126,7 +126,7 @@ Develop the project using a workflow suitable for:
 - deployment
 - future revision management
 
-The repository structure is intended to reflect a complete hardware product-development lifecycle rather than only PCB files.
+The repository structure is intended to reflect the complete hardware product-development lifecycle, not just PCB files.
 
 ---
 
@@ -474,7 +474,7 @@ This public repository documents:
 Implementation-level engineering files are maintained separately in:
 
 ```
-IWCD_CAM_CTRL_ENGINEERING
+- [IWCD_CAM_CTRL_ENGINEERING](https://github.com/shomi74/IWCD_CAM_CTRL_ENGINEERING)
 ```
 
 The private engineering repository contains:
