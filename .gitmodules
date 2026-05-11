@@ -1,0 +1,3 @@
+[submodule "hardware/engineering_private"]
+	path = hardware/engineering_private
+	url = https://github.com/shomi74/IWCD_CAM_CTRL_ENGINEERING.git
